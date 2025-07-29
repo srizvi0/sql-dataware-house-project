@@ -1,4 +1,4 @@
-# sql-dataware-house-project
+# SQL-Dataware-House-project
 Building data warehouse with sql server including ETL processes, data modelling and analysis
 
 # Objectives
